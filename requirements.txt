@@ -1,0 +1,9 @@
+langchain
+langchain-google-genai
+langchain-community
+langchain-tavily
+pymongo
+gradio
+python-dotenv
+requests
+pypdf               
