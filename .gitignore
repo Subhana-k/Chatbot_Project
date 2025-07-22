@@ -21,3 +21,10 @@ __pycache__/
 
 # Ignore environment files
 .env
+
+# Ignore Gradio cache
+.gradio/
+
+# Ignore Resume and init
+chatbot/Resume.pdf
+chatbot/__init__.py
